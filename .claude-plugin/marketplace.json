@@ -1,0 +1,5 @@
+{
+  "name": "gonekim116-mods",
+  "owner": { "name": "gonekim116" },
+  "plugins": [{ "name": "context-bar", "source": "./" }]
+}
