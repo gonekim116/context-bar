@@ -2,11 +2,7 @@
 
 A Claude Code mod that draws your context window as a stacked bar above the prompt, one color per category like `/context`.
 
-```
-◆ context                 212k of 1M · compacts at 950k  21%
-████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▏████
-■ system prompt 3.4k 0.3%  ■ tools 12k 1%  ■ messages 186k 19%  ■ free 788k
-```
+![context-bar above the prompt](screenshot.png)
 
 - One colored run per category (system prompt, tools, MCP tools, agents, memory files, skills, messages), then free space
 - Yellow marker at the auto-compact point; the bar past it is black
